@@ -60,6 +60,7 @@ function Signup() {
           }
         />
         <InputControl
+          type="Password"
           label="Password"
           placeholder="Enter password"
           onChange={(event) =>
